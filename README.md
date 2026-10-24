@@ -11,11 +11,12 @@
 ![Status](https://img.shields.io/badge/Status-EC2%20Ready-20B000)
 
 
-**Live URL:** http://YOUR_EC2_PUBLIC_IP:9494
 
-![[Live](https://img.shields.io/badge/Live-AWS_EC2-orange?style=for-the-badge&logo=amazonec2)]
+**Live URL:** https://eight6-aws-ec2-deploy.onrender.com/
 
-(https://eight6-aws-ec2-deploy.onrender.com/)
+[![Live](https://img.shields.io/badge/Live-Render-brightgreen?style=for-the-badge&logo=render)](https://eight5-github-actions-ci.onrender.com)
+
+
 
 
 Project 86 - Part of Java 100 Projects Challenge - DevOps + Cloud Tier
