@@ -407,35 +407,25 @@ Check `Actions Tab -> Deploy to EC2 -> SUCCESS Green`
 
 # 📸 Screenshots
 
-### Demo 1 - EC2 Instance Launched
+### Demo 1 – GitHub Repo – Code Pushed & Public
+[Demo1 GitHub Repo](screenshots/demo1-github-repo.png)
+*GitHub: raviteja-dev950/86-aws-ec2-deploy | 3 Commits | Latest: 896276b | Public Repo with Dockerfile, README, pom.xml*
 
-AWS Console `EC2 -> Instances` shows Instance `86-ec2-deploy` State `Running` + Instance Type `t2.micro` + Public IPv4 `3.110.XX.XX` - Proof of Free Tier EC2 launch.
+### Demo 2 – Render Dashboard – Service Live
+[Demo2 Render Dashboard](screenshots/demo2-render-dashboard.png)
+*Web Service: 86-aws-ec2-deploy | Docker | Free | Live Badge | Service ID: srv-dbe8f94s728c73bcp84g | GitHub Connected: main branch 896276b*
 
-[Demo 1](screenshots/demo1-ec2-launch.png)
+### Demo 3 – Deploy Succeeded | Live Logs
+[Demo3 Deploy Success](screenshots/demo3-deploy-success.png)
+*Status: Deploy succeeded | Live | Duration 1m34s | Trigger: First Deploy | Source: 896276b | Logs: Tomcat started on port 10000, Started Ec2Application, Your service is live 🎉, Available at primary URL*
 
-### Demo 2 - Security Group Inbound Rules
+### Demo 4 – Live JSON on Cloud
+[Demo4 Live JSON](screenshots/demo4-live-render-json.png)
+*https://eight6-aws-ec2-deploy.onrender.com returns JSON – Proof of Live Deployment on Internet*
 
-EC2 `Security Groups -> Inbound rules` shows 3 rules: SSH Port 22 (My IP), Custom TCP 9494 (0.0.0.0/0), HTTP 80 (0.0.0.0/0) - Proof of port 9494 open for Spring Boot.
-
-[Demo 2](screenshots/demo2-security-group.png)
-
-### Demo 3 - SSH Connected to EC2
-
-Terminal `ssh -i 86-key.pem ubuntu@3.110.XX.XX` shows Ubuntu prompt `ubuntu@ip-172-31-XX-XX:~$` - `java -version` shows `openjdk 21` + `docker --version` shows `Docker version 24.0.5` - Proof of EC2 ready.
-
-[Demo 3](screenshots/demo3-ssh-connect.png)
-
-### Demo 4 - Docker Build & Run on EC2
-
-EC2 Terminal `cd 86-aws-ec2-deploy && ./deploy.sh` shows logs: `Successfully built`, `Tomcat started on port 9494`, `Started Ec2Application in 6.2 seconds` - `docker ps` shows `Up` - Proof of Docker container running on EC2.
-
-[Demo 4](screenshots/demo4-docker-build-ec2.png)
-
-### Demo 5 - Live on AWS EC2 - Browser
-
-Browser `http://3.110.XX.XX:9494` shows JSON with `project: 86-aws-ec2-deploy`, `status: Live on AWS EC2 - Free Tier` - Pretty-printed - Proof of production live URL on AWS.
-
-[Demo 5](screenshots/demo5-live-ec2-url.png)
+### Demo 5 – Localhost Running – Eclipse
+[Demo5 Localhost](screenshots/demo5-localhost-9494.png)
+*localhost:9494 – Same JSON locally – Proof of Eclipse + Spring Boot running before cloud deploy*
 
 ---
 
