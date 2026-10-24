@@ -13,7 +13,7 @@
 
 **Live URL:** http://YOUR_EC2_PUBLIC_IP:9494
 
-[[Live](https://img.shields.io/badge/Live-AWS_EC2-orange?style=for-the-badge&logo=amazonec2)](http://YOUR_EC2_PUBLIC_IP:9494)
+![[Live](https://img.shields.io/badge/Live-AWS_EC2-orange?style=for-the-badge&logo=amazonec2)](https://eight6-aws-ec2-deploy.onrender.com/)
 
 
 Project 86 - Part of Java 100 Projects Challenge - DevOps + Cloud Tier
