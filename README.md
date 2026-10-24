@@ -408,23 +408,23 @@ Check `Actions Tab -> Deploy to EC2 -> SUCCESS Green`
 # 📸 Screenshots
 
 ### Demo 1 – GitHub Repo – Code Pushed & Public
-[Demo1 GitHub Repo](screenshots/demo1-github-repo.png)
+![Demo1 GitHub Repo](screenshots/demo1-github-repo.png)
 *GitHub: raviteja-dev950/86-aws-ec2-deploy | 3 Commits | Latest: 896276b | Public Repo with Dockerfile, README, pom.xml*
 
 ### Demo 2 – Render Dashboard – Service Live
-[Demo2 Render Dashboard](screenshots/demo2-render-dashboard.png)
+![Demo2 Render Dashboard](screenshots/demo2-render-dashboard.png)
 *Web Service: 86-aws-ec2-deploy | Docker | Free | Live Badge | Service ID: srv-dbe8f94s728c73bcp84g | GitHub Connected: main branch 896276b*
 
 ### Demo 3 – Deploy Succeeded | Live Logs
-[Demo3 Deploy Success](screenshots/demo3-deploy-success.png)
+![Demo3 Deploy Success](screenshots/demo3-deploy-success.png)
 *Status: Deploy succeeded | Live | Duration 1m34s | Trigger: First Deploy | Source: 896276b | Logs: Tomcat started on port 10000, Started Ec2Application, Your service is live 🎉, Available at primary URL*
 
 ### Demo 4 – Live JSON on Cloud
-[Demo4 Live JSON](screenshots/demo4-live-render-json.png)
+![Demo4 Live JSON](screenshots/demo4-live-render-json.png)
 *https://eight6-aws-ec2-deploy.onrender.com returns JSON – Proof of Live Deployment on Internet*
 
 ### Demo 5 – Localhost Running – Eclipse
-[Demo5 Localhost](screenshots/demo5-localhost-9494.png)
+![Demo5 Localhost](screenshots/demo5-localhost-9494.png)
 *localhost:9494 – Same JSON locally – Proof of Eclipse + Spring Boot running before cloud deploy*
 
 ---
