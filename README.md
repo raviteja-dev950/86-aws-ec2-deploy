@@ -1,14 +1,14 @@
 # 🚀 Project 86 – AWS EC2 Deploy + Docker | Full Stack DevOps System | EC2 Ready
 
-[Java 21](https://img.shields.io/badge/Java-21-E76F00?logo=openjdk&logoColor=white)
-[Spring Boot 3.2.5](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?logo=springboot&logoColor=white)
-[Docker Ready](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
-[AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonec2&logoColor=white)
-[Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white)
-[Maven](https://img.shields.io/badge/Maven-3.9+-C71A36?logo=apachemaven&logoColor=white)
-[Tomcat](https://img.shields.io/badge/Apache%20Tomcat-11.0.24-D4AF00?logo=apachetomcat&logoColor=white)
-[Port](https://img.shields.io/badge/Port-9494%20%7C%2080-20B000)
-[Status](https://img.shields.io/badge/Status-EC2%20Ready-20B000)
+![Java 21](https://img.shields.io/badge/Java-21-E76F00?logo=openjdk&logoColor=white)
+![Spring Boot 3.2.5](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?logo=springboot&logoColor=white)
+![Docker Ready](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonec2&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.9+-C71A36?logo=apachemaven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-11.0.24-D4AF00?logo=apachetomcat&logoColor=white)
+![Port](https://img.shields.io/badge/Port-9494%20%7C%2080-20B000)
+![Status](https://img.shields.io/badge/Status-EC2%20Ready-20B000)
 
 
 **Live URL:** http://YOUR_EC2_PUBLIC_IP:9494
